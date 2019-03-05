@@ -22,8 +22,12 @@ h1, h2, h3, h4 {
     font-family: 'Lobster', cursive;
 }
 
+.btn {
+}
+
 .date {
     color: #828282;
+    float: right;
 }
 
 .save {
